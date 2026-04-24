@@ -13,7 +13,6 @@ frontend/build/
 frontend/.env
 
 # ML model artifacts (large binary files)
-resume_ml/*.pkl
 
 # OS
 .DS_Store
